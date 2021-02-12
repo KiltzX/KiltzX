@@ -4,12 +4,11 @@
 
 Info:
 
-<!-- - 🔭 I’m currently working on  -->
-
+- 🔭 I’m currently working on Medmobi Telemedicina
 - 🌱 I’m currently learning Cyber Security and Web Dev
-  <!-- - 👯 I’m looking to collaborate on ... -->
-  <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about all
-<!-- - 📫 How to reach me: ... -->
+- 📫 How to reach me: dudu.cedsv@gmail.com
 - 😄 Pronouns: Kito,Kiltz,Carlos
 - ⚡ Important fact: i love challenges
+
+- Old competitor in Machine Learning and Big Data for World Skills
