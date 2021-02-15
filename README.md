@@ -6,9 +6,10 @@ Info:
 
 - 🔭 I’m currently working on Medmobi Telemedicina
 - 🌱 I’m currently learning Cyber Security and Web Dev
-- 💬 Ask me about all
+- 💬 Ask me about everything
 - 📫 How to reach me: dudu.cedsv@gmail.com
-- 😄 Pronouns: Kito,Kiltz,Carlos
+- 😄 Surname: Kito,Kiltz,Carlos
 - ⚡ Important fact: i love challenges
+- 💻 Accepting freelance on web dev
 
 - Old competitor in Machine Learning and Big Data for World Skills
