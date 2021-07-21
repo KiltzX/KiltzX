@@ -12,4 +12,5 @@ Info:
 - ⚡ Important fact: i love challenges
 - 💻 Accepting freelance on web dev
 
+- Competitor on Cyber Security - World Skills
 - Old competitor in Machine Learning and Big Data for World Skills
