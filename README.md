@@ -27,7 +27,7 @@ Info:
   <img align="center" alt="Kiltz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kiltz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kiltz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Kiltz-yoda" src="https://media.discordapp.net/attachments/909605227336990732/953621290835656744/roku-vi.gif?width=471&height=471">
+  <img align="right" alt="Kiltz-yoda"  width="200" style="max-width: 200px" src="https://media.discordapp.net/attachments/909605227336990732/953621290835656744/roku-vi.gif?width=471&height=471">
 </div>
   
   ##
