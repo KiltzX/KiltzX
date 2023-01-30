@@ -8,12 +8,7 @@ Info:
 - 🌱 I’m currently learning Cyber Security and Web Dev
 - 💬 Ask me about everything
 - 📫 How to reach me: dudu.cedsv@gmail.com
-- 😄 Surname: Kiltz or Eduardo
-- ⚡ Important fact: i love challenges and talk
-- 💻 Accepting freelance
-
 - Competitor on Cyber Security - World Skills Lyon 2024
-- Old competitor in Machine Learning and Big Data for World Skills Shangai 2022
 
  <div>
   <a href="https://github.com/kiltzx">
@@ -29,10 +24,11 @@ Info:
   <img align="center" alt="Kiltz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Kiltz-yoda"  width="200" style="max-width: 200px" src="https://media.discordapp.net/attachments/909605227336990732/953621290835656744/roku-vi.gif?width=471&height=471">
 </div>
-  
  ##
  
 <div> 
   <a href="https://instagram.com/kiltz.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dudu.cedsv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://tryhackme.com/p/Kiltz">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Kiltz.png" alt="TryHackMe" ></img></a>
 </div>
