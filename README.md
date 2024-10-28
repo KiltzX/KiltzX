@@ -4,7 +4,7 @@
 
 Info:
 
-- 🔭 I’m currently Cyber Security Analyst in Arbo Imóveis
+- 🔭 I’m currently Pentester at Hakai Offensive Security
 - 🌱 I’m currently learning Cyber Security and Web Dev
 - 💬 Ask me about everything
 - 📫 How to reach me: dudu.cedsv@gmail.com
