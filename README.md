@@ -5,9 +5,8 @@
 Info:
 
 - 🔭 I’m currently Pentester at Hakai Offensive Security
-- 🌱 I’m currently learning Cyber Security and Web Dev
-- 💬 Ask me about everything
-- 📫 How to reach me: dudu.cedsv@gmail.com
+- 🌱 I’m currently Exploiting and Researching about Web Apps and Cloud Hacking
+- 💬 Tell me how to hacking your hearth
 - Competitor on Cyber Security - World Skills Lyon 2024
 
  <div>
@@ -28,7 +27,6 @@ Info:
 ###
  
 <div> 
-  <a href="https://instagram.com/kiltz.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dudu.cedsv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://tryhackme.com/p/Kiltz">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Kiltz.png" alt="TryHackMe" ></img></a>
